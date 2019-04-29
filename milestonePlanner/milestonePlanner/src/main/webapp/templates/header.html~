@@ -1,0 +1,13 @@
+  <i class="fas fa-bars mobile-nav" onclick="toggleCP()"></i>
+         <div class="header-title">Milestone Planner</div>
+         <nav>
+             <ul>
+            <li><a href="/milestonePlanner/dashboard">Dashboard</a></li>
+            <li><a href="/milestonePlanner/projects">Projects</a></li>
+            <li><a href="/milestonePlanner/timeline">Timeline</a></li>
+            <li><a href="/milestonePlanner/milestones">Milestones</a></li>
+            <li><a href="/milestonePlanner/actions">Actions</a></li>
+            <li><a href="/milestonePlanner/review">Review</a></li>
+            <li><a href="/milestonePlanner/my-account">My Account</a></li>
+        </ul>
+         <nav>
