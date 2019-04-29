@@ -1,1 +1,2 @@
-# milestonePlanner2
+# milestonePlanner
+Milestone Planner for planning projects
